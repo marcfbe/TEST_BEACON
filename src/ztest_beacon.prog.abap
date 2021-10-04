@@ -7,6 +7,7 @@ INTERFACE intf.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -27,6 +28,7 @@ CLASS clas DEFINITION.
     " change
     " change
     " change
+    " new
     " change
     " change
     " change
@@ -43,6 +45,7 @@ CLASS clas IMPLEMENTATION.
     " change
     " change
     " change
+    " new
     " change
     " change
     " change
@@ -61,6 +64,7 @@ CLASS clas IMPLEMENTATION.
     " change
     " change
     " change
+    " new
     " change
     " change
     " change
@@ -78,6 +82,7 @@ INITIALIZATION.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -95,6 +100,7 @@ START-OF-SELECTION.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -110,6 +116,7 @@ END-OF-SELECTION.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -126,6 +133,7 @@ TOP-OF-PAGE.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -142,6 +150,7 @@ END-OF-PAGE.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -159,6 +168,7 @@ AT SELECTION-SCREEN.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -173,6 +183,7 @@ AT LINE-SELECTION.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -191,6 +202,7 @@ AT USER-COMMAND.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -205,6 +217,7 @@ AT PF01.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
@@ -223,6 +236,7 @@ FORM f.
   " change
   " change
   " change
+  " new
   " change
   " change
   " change
